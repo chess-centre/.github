@@ -10,10 +10,10 @@ The primary production application is:
 
 Additional projects are now actively in development:
 
-* **broadcast** - a DGT board presentation tool for easily showcasing event results with live chess data
+* **broadcast** (beta) - a DGT board presentation tool for easily showcasing event results with live chess data
 
-* **league** - a league management tool for presentating detailed local / national chess league information
+* **league** (tbc) - a league management tool for presentating detailed local / national chess league information
 
-* **events** - a UK chess events calendar, designed for easily publishing and finding local chess events
+* **events** (tbc) - a UK chess events calendar, designed for easily publishing and finding local chess events
 
 The goal is to make these as user-friendly as possible including the supporting tools & utilities for organisers to submit information quickly and easily.
