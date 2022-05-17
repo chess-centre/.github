@@ -6,7 +6,7 @@ Our mission is to continually improve and advance the features available to play
 
 The primary production application is: 
 
-*  **platform** - a members based event sign up application including automatic rating tracking
+*  **platform** - a members based event sign-up application including automatic rating tracking
 
 Additional projects are now actively in development:
 
