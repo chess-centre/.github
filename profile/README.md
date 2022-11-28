@@ -16,4 +16,4 @@ Additional projects identified to solve a specific use-case:
 
 * [**events**](https://github.com/otb-chess/events) _(planning)_ - a UK chess events calendar, designed for easily publishing and finding local chess events
 
-The goal is to make these as user-friendly as possible including with supporting tools & utilities for organisers to submit information quickly and easily.
+The goal is to make these as user-friendly as possible including the supporting tools & utilities for organisers to effortlessly submit information quickly and easily. ❤️
